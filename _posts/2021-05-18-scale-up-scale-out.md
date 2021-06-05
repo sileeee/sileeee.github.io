@@ -1,5 +1,5 @@
 ---
-title: 스케일 업(Scale-up)과 스케일 아웃(Scale-out)
+title: 스케일 업(Scale-up)과<br>스케일 아웃(Scale-out)
 tags:
 - Back-End
 layout: post
